@@ -1,3 +1,3 @@
 # NewsAggregator
 
-Work in progress News Aggegator. Goal is to create a web page that scapes common news sites for news articles and compiles the links to all the articles on one page.
+Work in progress web scraper/news aggregator. Goal is to scrape common news sites for news articles and compile the links to all the articles on the same page. Personal side proejct.
